@@ -1,4 +1,4 @@
-# Asking chat gpt-3 how to write tps in prolog
+# Asking chat gpt-3 how to write tsp in prolog
 
 The Traveling salesman problem (TSP) is a good challenge for a code writing AI. The TSP is one of the most classic problems and therefore also well documented. Prolog as a language may not be used much, but it's still well documented since its commonly used in higher educations.
 
