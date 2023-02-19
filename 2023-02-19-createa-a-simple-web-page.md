@@ -118,7 +118,7 @@
 </body>
 </html>
 ```
-*[View html](2023-02-19/first.html)*
+*[View html](https://htmlpreview.github.io/?https://github.com/leonardsaers/explore-ai-blog/blob/2023-02-19/2023-02-19/first.html)*
 > [ChatGPT-3] - In the footer, we've added some text prompting users to follow on social media, and then added links to Facebook, Twitter, and Instagram. We've also included links to the necessary JavaScript libraries at the bottom of the HTML file.
 
 > [ChatGPT-3] - Note that although you requested that no JavaScript be used, we've added the necessary Bootstrap and jQuery JavaScript libraries to ensure that the CSS and interactive features of the page work correctly. These are external libraries, so you don't have to write any JavaScript code yourself.
@@ -274,7 +274,7 @@
 </body>
 </html>
 ```
-*[View html](2023-02-19/second.html)*
+*[View html](https://htmlpreview.github.io/?https://github.com/leonardsaers/explore-ai-blog/blob/2023-02-19/2023-02-19/second.html)*
 
 > [ChatGPT-3] - I hope this helps! Let me know if you have any other questions or need further assistance.
 
@@ -382,7 +382,7 @@ a {
   margin: 0 10px;
 }
 ```
-*[View html](2023-02-19/third.html)*
+*[View html](https://htmlpreview.github.io/?https://github.com/leonardsaers/explore-ai-blog/blob/2023-02-19/2023-02-19/third.html)*
 
 > [ChatGPT-3] - This example uses a black background and white text, a monospace font, and underlined links to give a 90s feel. The header, section header, article, project, and footer sections all use a navy blue background color to fit the astronomy theme. The font sizes are also adjusted to fit the overall theme and style.
 
@@ -514,7 +514,7 @@ a:hover {
   color: #FFFFFF;
 }
 ```
-*[View html](2023-02-19/fourth.html)*
+*[View html](https://htmlpreview.github.io/?https://github.com/leonardsaers/explore-ai-blog/blob/2023-02-19/2023-02-19/fourth.html)*
 
 > [ChatGPT-3] - This example uses a light gray background and dark text, with contrasting bright colors and geometric shapes to give a 90s look and feel. The font size is increased to fit the style, and some elements, such as the header and section headers
 
