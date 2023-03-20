@@ -41,7 +41,7 @@ The part that encloses the lens should match the diameter and the thickness of y
 Print the enclosure that best matches your objective lens. The enclosure should have a slightly higher diameter then the lens, so a lens with a diameter of 50 mm should be printed with a enclosure with a diameter of 51 mm.
 
 | stl file                                        | diameter (mm) | edge thickness (mm) |
-|--------------------------------------- --|---------------------|------------------------------|
+|-----------------------------------------|---------------------|------------------------------|
 | lens-enclosure_508_18.stl       | 50,8                  | 1,8                              |
 | lens-enclosure_510_18.stl       | 51,0                  | 1,8                              |
 | lens-enclosure_511_18.stl       | 51,1                  | 1,8                              |
