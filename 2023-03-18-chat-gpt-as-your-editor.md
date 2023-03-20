@@ -1,14 +1,12 @@
 # ChatGPT-3 as your personal editor
 
-**This challenge explores if ChatGPT-3 can understand and use writteninstruction in order to build a web page.**
-
 > [me] - Hi, could you help me with building a simple homepage that will be used to present different projects. The page should not use java script. Bootstrap should be used as the css framework. The color theme should be inspired by astronomy. The page should have the following section: A header with logotype, a short description of the page that will explain the purpose of the page, a section that displays the last written articles in a boxed format, where a thumbnail picture and the title of the article is displayed. A section that lists a number of projects with thumbnail image, title and a short text. Finally there should be a footer with links.
 
 
 
 > [ChatGPT-3] - Sure, I'd be happy to help! Here's a markdown template you can use to summarize your project for creating your own telescope:
 
-´´´ text
+``` text
 
 Project: Creating Your Own Telescope
 Introduction
@@ -48,7 +46,7 @@ Conclusion
 
 Congratulations! You've just built your own telescope. Now it's time to take it outside and start exploring the wonders of the night sky. With a little bit of patience and practice, you'll be able to see planets, stars, and galaxies like never before.
 
-´´´
+```
 
 **Notice that the suggested text is not in markdown format**
 
