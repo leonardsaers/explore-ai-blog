@@ -1,8 +1,6 @@
 # ChatGPT-3 as your personal editor
 
-> [me] - Hi, could you help me with building a simple homepage that will be used to present different projects. The page should not use java script. Bootstrap should be used as the css framework. The color theme should be inspired by astronomy. The page should have the following section: A header with logotype, a short description of the page that will explain the purpose of the page, a section that displays the last written articles in a boxed format, where a thumbnail picture and the title of the article is displayed. A section that lists a number of projects with thumbnail image, title and a short text. Finally there should be a footer with links.
-
-
+> [me] - Hi, could you help me finishing a markdown file that summarizes in an informative manner a project for creating your own telescope? 
 
 > [ChatGPT-3] - Sure, I'd be happy to help! Here's a markdown template you can use to summarize your project for creating your own telescope:
 
