@@ -101,5 +101,9 @@ Congratulations! You've just built your own telescope. Now it's time to take it 
 
 > [ChatGPT-3] - You're welcome! I'm glad I could help. If you have any other questions or need further assistance, feel free to ask!
 
+# Conclusion
 
+The given remarks were all valid, but I did not follow all of them. It's clear that using ChatGPT as your personal editor increases the quality of text without removing your personal way of formulating the text. Only a few sentences where edited during this conversation.
+
+The final result is here: [Final markdown text](2023-03-18/final_text.md)
 
