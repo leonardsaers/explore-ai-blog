@@ -54,7 +54,7 @@ Congratulations! You've just built your own telescope. Now it's time to take it 
 > [ChatGPT-3] - Sure, I can definitely help you improve your text. Could you please provide the text that you have already written? This will help me understand what you've already covered and provide more targeted feedback.
 
 
-> [me] (2023-03-18/initial.md)[Initial markdown text]
+> [me] [Initial markdown text](2023-03-18/initialt_text.md)
 
 > [ChatGPT-3] - Overall, your text is informative and gives a good overview of the project. Here are a few suggestions to improve it:
 
