@@ -29,3 +29,7 @@ I think chat-gpt may have used it's more artistic side when helping out with thi
 **[2023-12-11-solving-a-simple-code-challange-with-prolog](2023-12-11-solving-a-simple-code-challange-with-prolog.md)**
 
 Another challenge using prolog. How can chat-gpt help me solve a simple programming problem when I use a language that I don't really master.
+
+**[2025-09-07-a-pioc-8-game](./2025-09-07/a-pico-8-game.md)**
+
+A simple snake like game generated for Pico 8.
