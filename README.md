@@ -33,3 +33,7 @@ Another challenge using prolog. How can chat-gpt help me solve a simple programm
 **[2025-09-07-a-pioc-8-game](./2025-09-07/a-pico-8-game.md)**
 
 A simple snake like game generated for Pico 8.
+
+**[2026-02-07-a-pioc-8-game](./2026-02-07/a-second-pico-8-game.md)**
+
+Can we do a sligthly more advanced snake like game using pico 8?
