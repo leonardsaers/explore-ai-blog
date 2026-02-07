@@ -35,4 +35,4 @@ Despite these challenges, it’s impressive that Gemini can generate Lua code fo
 The final game is available on Lexaloffle:
 **[The Slime Trail Society](https://www.lexaloffle.com/bbs/?pid=183379#p)**
 
-The code is included in this folder.
+The code is included in this [folder](../2026-02-07/).
